@@ -33,6 +33,7 @@
 - [💻 Open-Source Software & Self-Hosted Repos](#-open-source-software--self-hosted-repos)
 - [📊 Full Feature Comparison Matrix](#-full-feature-comparison-matrix)
 - [📈 Star History](#-star-history)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 
@@ -176,6 +177,23 @@ Self-hosted, transparent, and community-maintained open-source alternatives for 
 ## 📈 Star History
 
 [![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Recruitment-Marketing-Talent-Attraction&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Recruitment-Marketing-Talent-Attraction&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for exploring and utilizing this curated list! If this resource has helped you discover valuable recruitment platforms, saved your team research time, or inspired your talent acquisition stack, please consider supporting the project:
+
+- ⭐ **Star** this repository to show your appreciation and help others discover it.
+- 🍴 **Fork** and contribute additions, updates, or improvements.
+- 📢 **Share** this list with colleagues, recruiters, HR tech enthusiasts, and engineering leaders.
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to back ongoing maintenance and open-source curation, you can support via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<div align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors" alt="Sponsor on GitHub" />
+  </a>
+</div>
 
 ---
 
